@@ -2,7 +2,7 @@
 
 ## C Units 2 Solution
   -  Lesson 3 C Basics Solution
-      -  EX1 
+      -  [link]() 
   -  Lesson.4 C Array & String Solution
   -  Lesson 5 C Functions Solution
   -  Lesson6 Structures_Union_Enum Solution
