@@ -1,6 +1,6 @@
 # Mastering-Embedded-System
 
-## C Units 2
+## C Units 2 Solution
   -  Lesson 3 C Basics Solution
       -  EX1 
   -  Lesson.4 C Array & String Solution
