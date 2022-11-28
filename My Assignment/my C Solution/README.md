@@ -2,7 +2,7 @@
 
 ## C Units 2
 
-  -  Lesson 3 C Basics
+ -  Lesson 3 C Basics
       -  EX1: Write C Program to Print a Sentence
       -  EX2: Write C Program to Print a Integer Entered by a User
       -  EX3: Write C Program to Add Two Integers
