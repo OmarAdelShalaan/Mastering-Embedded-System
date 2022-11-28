@@ -11,6 +11,14 @@
           -  EX6: Write Source Code to Swap Two Numbers
           -  EX7: Write Source Code to Swap Two Numbers without temp variable.
       -  Homework 2
+          -  EX1: Write C Program to Check Whether a Number is Even or Odd 
+          -  EX2: C Program to Check Vowel or Consonant
+          -  EX3:C Program to Find the Largest Number Among Three Numbers
+          -  EX4: C Program to Check Whether a Number is Positive or Negative
+          -  EX5: C Program to Check Whether a Character is an Alphabet or not 
+          -  EX6: C Program to Calculate Sum of Natural Numbers 
+          -  EX7: C Program to Find Factorial of a Number
+          -  EX8: C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case 
  -  Lesson 4 C Array & String
       -  x
   -  Lesson 5 C Functions
