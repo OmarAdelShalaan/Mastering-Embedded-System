@@ -10,7 +10,7 @@
           -  EX5: Write C Program to Find ASCII Value of a Character
           -  EX6: Write Source Code to Swap Two Numbers
           -  EX7: Write Source Code to Swap Two Numbers without temp variable.
-          [Solution](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/My%20Assignment/my%20C%20Solution/Unit%202/Lecture%203%20C%20Basics%20ASS/Homework%201)
+          - [Solution](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/My%20Assignment/my%20C%20Solution/Unit%202/Lecture%203%20C%20Basics%20ASS/Homework%201)
       -  Homework 2
           -  EX1: Write C Program to Check Whether a Number is Even or Odd 
           -  EX2: C Program to Check Vowel or Consonant
@@ -20,7 +20,7 @@
           -  EX6: C Program to Calculate Sum of Natural Numbers 
           -  EX7: C Program to Find Factorial of a Number
           -  EX8: C Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case 
-          [Solution](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/My%20Assignment/my%20C%20Solution/Unit%202/Lecture%203%20C%20Basics%20ASS/Homework%202)
+          - [Solution](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/My%20Assignment/my%20C%20Solution/Unit%202/Lecture%203%20C%20Basics%20ASS/Homework%202)
  -  Lesson 4 C Array & String
       -  Homework 3 
           -  Arrays 
