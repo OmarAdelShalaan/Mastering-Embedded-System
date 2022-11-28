@@ -6,7 +6,7 @@
    - 
 
 
- ## C Units 2
+ ## C Content
  
     -  Lesson 3 C Basics
     -  Lesson.4 C Array & String
