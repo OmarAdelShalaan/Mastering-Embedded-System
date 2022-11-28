@@ -1,7 +1,9 @@
 # Mastering-Embedded-System
 
 ## Diploma Content
-   - [x] C
+   - [] C
+   - [] C Embedded
+   - 
 
 
  ## C Units 2
