@@ -1,8 +1,8 @@
 # Mastering-Embedded-System
 
 ## Diploma Content
-   - [] C
-   - [] C Embedded
+   - [ ] C
+   - [ ] C Embedded
    - 
 
 
