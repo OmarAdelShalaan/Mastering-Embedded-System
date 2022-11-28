@@ -1,8 +1,18 @@
 # Mastering-Embedded-System
 
-## C Units 2 Solution
-  -  Lesson 3 C Basics Solution
-      -  ![link](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/blob/main/My%20Assignment/my%20C%20Solution/Unit%202/Lecture%203%20C%20Basics%20ASS/Homework%201/EX1.jpg?raw=true) 
-  -  Lesson.4 C Array & String Solution
-  -  Lesson 5 C Functions Solution
-  -  Lesson6 Structures_Union_Enum Solution
+  ## C Units 2
+-  Lesson 3 C Basics
+      -  Homework 1
+          -  EX1: Write C Program to Print a Sentence
+          -  EX2: Write C Program to Print a Integer Entered by a User
+          -  EX3: Write C Program to Add Two Integers
+          -  EX4: Write C Program to Multiply two Floating Point Numbers
+          -  EX5: Write C Program to Find ASCII Value of a Character
+          -  EX6: Write Source Code to Swap Two Numbers
+          -  EX7: Write Source Code to Swap Two Numbers without temp variable.
+      -  Homework 2
+ -  Lesson 4 C Array & String
+      -  x
+  -  Lesson 5 C Functions
+      -  h
+  -  Lesson6 Structures_Union_Enum
