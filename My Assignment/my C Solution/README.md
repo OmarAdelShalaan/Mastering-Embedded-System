@@ -11,8 +11,8 @@
       -  EX6: Write Source Code to Swap Two Numbers
       -  EX7: Write Source Code to Swap Two Numbers without temp variable.
   
-  -  Lesson.4 C Array & String
-      
+  -  Lesson 4 C Array & String
+      -
   -  Lesson 5 C Functions
       -  
   -  Lesson6 Structures_Union_Enum
