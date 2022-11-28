@@ -5,7 +5,7 @@
 -  C 
 
 
--  C Units 2
+  C Units 2
     -  Lesson 3 C Basics
     -  Lesson.4 C Array & String
     -  Lesson 5 C Functions
