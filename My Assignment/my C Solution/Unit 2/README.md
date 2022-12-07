@@ -39,8 +39,7 @@
       -   Homework 4
               -  EX1: C Program to Store Information(name, roll and marks) of a Student Using Structure 
               -  EX2: C Program to Add Two Distances (in inch-feet) System Using Structures
-              -  EX3: C Program to Add Two Complex Numbers by Passing Structure to a 
-Function 
+              -  EX3: C Program to Add Two Complex Numbers by Passing Structure to a Function 
               -  EX4: C Program to Store Information of Students Using Structure
               -  EX5: C Program to find area of a circle, passing arguments to macros.
               -  [Solution]()
