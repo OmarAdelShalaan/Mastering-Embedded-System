@@ -36,5 +36,12 @@
               -  EX3: C Program to Reverse String Without Using Library Function 
               -  [Solution](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/tree/main/My%20Assignment/my%20C%20Solution/Unit%202/Lesson%204%20C%20Array%20%26%20String/Homework%203%20String)
   -  Lesson 5 C Functions
-      -  h
+      -  Homework 4
+              -  EX1: C Program to Store Information(name, roll and marks) of a Student Using Structure 
+              -  EX2: C Program to Add Two Distances (in inch-feet) System Using Structures
+              -  EX3: C Program to Add Two Complex Numbers by Passing Structure to a 
+Function 
+              -  EX4: C Program to Store Information of Students Using Structure
+              -  EX5: C Program to find area of a circle, passing arguments to macros.
+              -  [Solution]()
   -  Lesson6 Structures_Union_Enum
