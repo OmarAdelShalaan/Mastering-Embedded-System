@@ -5,3 +5,4 @@
    2.  C Conditions and Loops part 2
    3.  ARRAY& STRING
    4.  FUNCTION
+   5.  Online Embedded System Diploma mid term
