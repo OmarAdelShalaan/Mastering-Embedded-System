@@ -3,7 +3,7 @@
 ## Online Embedded System Diploma mid term 1 solution
 
 ### Tasks 
-	-[x] count number of ones in binary number
+	-[x]  count number of ones in binary number
 	- [x] max number of ones between two zeros
 	- [x] prime numbers between two numbers
 	- [x] revers array
