@@ -6,3 +6,4 @@
    3.  ARRAY& STRING
    4.  FUNCTION
    5.  Online Embedded System Diploma mid term
+   6.  Structure & union & enum
