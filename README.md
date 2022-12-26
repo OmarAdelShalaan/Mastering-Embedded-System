@@ -16,4 +16,4 @@
 ## Projects
 
 
-![](https://drive.google.com/file/d/1LEEyRwrM3_hIrdmc2M8Rm85EzLZqb8BO/view)
+![](https://drive.google.com/file/d/1LEEyRwrM3_hIrdmc2M8Rm85EzLZqb8BO/view?usp=share_link)
