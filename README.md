@@ -16,4 +16,4 @@
 ## Projects
 
 
-![](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com)
+![](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/blob/main/Learn%20In%20Depth.jpg)
