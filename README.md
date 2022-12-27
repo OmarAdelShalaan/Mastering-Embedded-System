@@ -12,6 +12,4 @@
 
 
 ## Projects
-
-
-		![](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/blob/main/Learn%20In%20Depth.jpg)
+![](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/blob/main/Learn%20In%20Depth.jpg)
