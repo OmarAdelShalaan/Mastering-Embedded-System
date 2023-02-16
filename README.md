@@ -10,6 +10,6 @@
 			- system architect 
 			- Data Structure
 
-
+[Profile: Embedded System online diploma learn-in-depth ](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com)
 ## Projects
 ![](https://github.com/OmarAdelShalaan/Mastering-Embedded-System/blob/main/Learn%20In%20Depth.jpg)
