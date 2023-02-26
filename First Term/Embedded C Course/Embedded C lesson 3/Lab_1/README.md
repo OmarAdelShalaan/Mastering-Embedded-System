@@ -3,7 +3,7 @@
 
 # Lab_1
 ### ==> Running
-![Running](./Running.jpg)
+![Running](./running.jpg)
 ## MAKEFILE
 ### ==> make
 ![make](./MAKE_FILE/make.jpg)
