@@ -39,8 +39,8 @@
 ==> b
 ![](GDB/b.jpg)
 ==> info breakpoints
-![info_breakpoint](GDB/info_breakpoint.jpg)
+![info_breakpoint](./GDB/info_breakpoint.jpg)
 ==> c
 ![c](GDB/c.jpg)
 ==> set $pc=0x10000
-![set_display](GDB/set_display.jpg)
+![set_display](./GDB/set_display.jpg)
