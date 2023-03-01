@@ -1,3 +1,7 @@
+/*
+* Omar Adel Shalaan
+* startup.c
+*/
 
 #include<stdint.h>
 
