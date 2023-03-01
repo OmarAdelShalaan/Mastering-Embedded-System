@@ -4,16 +4,16 @@
 # Lab_2
 
 ### Linker script
-	[Linker_Script](./Linker_Script.ld)
+[Linker_Script](./Linker_Script.ld)
 
 ### Startup.c
-	[startup.c](./startup.c)
+[startup.c](./startup.c)
 
 ### startup.s
-	[startup.s](./startup.s)
+[startup.s](./startup.s)
 
 ### Map File
-	[mapfile](./output_map.map)
+[mapfile](./output_map.map)
 
 ![Default_Handler](./photo/D_H.jpg)
 ![Default_Handler](./photo/nm.jpg)
