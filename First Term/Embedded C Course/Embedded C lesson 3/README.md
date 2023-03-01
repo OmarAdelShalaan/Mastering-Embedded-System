@@ -4,4 +4,7 @@
 ## Lab_1
 	### MAKEFILE
 	### GDB
-	
+
+## Lab_2
+	### Linker script
+	### Startup.c
