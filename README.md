@@ -23,7 +23,7 @@
 
 
 
-![Learn In Depth](./"Learn In Depth.jpg")
+![Learn In Depth](./Learn_In_Depth.jpg)
 
 
 ![qrcode](./qrcode.jpg)
