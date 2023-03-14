@@ -1,0 +1,28 @@
+/*
+ * fifi_buf.h
+ *
+ *  Created on: Mar 14, 2023
+ *      Author: Omar
+ */
+
+#ifndef FIFI_BUF_H_
+#define FIFI_BUF_H_
+
+#define Element_type int
+
+typedef struct FIFO_BUF_t
+{
+	FIFO_BUF_t * head;
+	FIFO_BUF_t * tail;
+	FIFO_BUF_t * base;
+	int lenght;
+}FIFO_BUF_t;
+
+
+void enqueue(FIFO_BUF_t fifo_buf, Element_type data);
+Element_type dequeue(FIFO_BUF_t fifo_buf);
+
+int isFull(FIFO_BUF_t fifo_buf);
+int isEmpty(FIFO_BUF_t fifo_buf);
+
+#endif /* FIFI_BUF_H_ */

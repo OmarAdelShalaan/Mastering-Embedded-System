@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FIFO_BUF/fifi_buf.h&apos; to &apos;fifo_buf.h&apos;" description="Rename resource &apos;fifi_buf.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="fifi_buf.h" name="fifo_buf.h" stamp="1678826216898" updateReferences="true"/>
+</session>

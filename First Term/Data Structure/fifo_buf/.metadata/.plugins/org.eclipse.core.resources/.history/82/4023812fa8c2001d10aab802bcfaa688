@@ -1,0 +1,41 @@
+/*
+ * fifo_buf.c
+ *
+ *  Created on: Mar 14, 2023
+ *      Author: Omar
+ */
+
+
+#include"fifo_buf.h"
+
+
+
+void enqueue(FIFO_BUF_t fifo_buf, Element_type data)
+{
+
+}
+
+Element_type dequeue(FIFO_BUF_t fifo_buf)
+{
+
+
+}
+
+int isFull(FIFO_BUF_t fifo_buf)
+{
+
+
+
+}
+
+
+int isEmpty(FIFO_BUF_t fifo_buf)
+{
+
+
+
+}
+
+
+
+

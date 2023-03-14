@@ -4,8 +4,9 @@
 #  Email: omaradelshalaan@gmail.com
 #  [Linkedin Profile](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
 
-## Diploma Content
-   - ### First Term 
+# Diploma Content
+
+## First Term 
 		- Unit 2: 
 			- C Programming
 		- Unit 3:

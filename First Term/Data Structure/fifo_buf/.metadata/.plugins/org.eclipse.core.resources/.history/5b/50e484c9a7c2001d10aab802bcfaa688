@@ -1,0 +1,21 @@
+/*
+ * fifi_buf.h
+ *
+ *  Created on: Mar 14, 2023
+ *      Author: Omar
+ */
+
+#ifndef FIFI_BUF_H_
+#define FIFI_BUF_H_
+
+typedef struct FIFO_BUF_t
+{
+	FIFO_BUF_t * head;
+	FIFO_BUF_t * tail;
+	FIFO_BUF_t * base;
+	int lenght;
+}FIFO_BUF_t;
+
+
+
+#endif /* FIFI_BUF_H_ */

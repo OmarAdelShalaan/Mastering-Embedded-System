@@ -1,0 +1,141 @@
+23:46:59 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:26:2: warning: 'fifo_buf' is used uninitialized in this function [-Wuninitialized]
+  FIFO_BUF_init(fifo_buf, buf,  5);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+Info: Nothing to build for FIFO_BUF
+23:49:26 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+23:50:52 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+..\fifo_buf.c: In function 'enqueue':
+..\fifo_buf.c:28:2: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  printf("enq\n");
+  ^~~~~~
+..\fifo_buf.c:28:2: warning: incompatible implicit declaration of built-in function 'printf'
+..\fifo_buf.c:28:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+..\fifo_buf.c: In function 'dequeue':
+..\fifo_buf.c:40:2: warning: incompatible implicit declaration of built-in function 'printf'
+  printf("deq\n");
+  ^~~~~~
+..\fifo_buf.c:40:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+Info: Nothing to build for FIFO_BUF
+Info: Nothing to build for FIFO_BUF
+23:52:23 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+..\fifo_buf.c: In function 'enqueue':
+..\fifo_buf.c:21:2: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  printf("enq\n");
+  ^~~~~~
+..\fifo_buf.c:21:2: warning: incompatible implicit declaration of built-in function 'printf'
+..\fifo_buf.c:21:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+..\fifo_buf.c: In function 'dequeue':
+..\fifo_buf.c:40:2: warning: incompatible implicit declaration of built-in function 'printf'
+  printf("deq\n");
+  ^~~~~~
+..\fifo_buf.c:40:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+23:52:31 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+..\fifo_buf.c: In function 'enqueue':
+..\fifo_buf.c:21:2: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  printf("enq\n");
+  ^~~~~~
+..\fifo_buf.c:21:2: warning: incompatible implicit declaration of built-in function 'printf'
+..\fifo_buf.c:21:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+..\fifo_buf.c: In function 'dequeue':
+..\fifo_buf.c:40:2: warning: incompatible implicit declaration of built-in function 'printf'
+  printf("deq\n");
+  ^~~~~~
+..\fifo_buf.c:40:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+23:52:59 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+..\fifo_buf.c: In function 'enqueue':
+..\fifo_buf.c:21:2: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  printf("enq  ");
+  ^~~~~~
+..\fifo_buf.c:21:2: warning: incompatible implicit declaration of built-in function 'printf'
+..\fifo_buf.c:21:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+..\fifo_buf.c: In function 'dequeue':
+..\fifo_buf.c:41:2: warning: incompatible implicit declaration of built-in function 'printf'
+  printf("deq\n");
+  ^~~~~~
+..\fifo_buf.c:41:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+23:54:57 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:33:20: error: invalid type argument of unary '*' (have 'int')
+   dequeue(fifo_buf,*temp);
+                    ^~~~~
+23:54:59 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:33:20: error: invalid type argument of unary '*' (have 'int')
+   dequeue(fifo_buf,*temp);
+                    ^~~~~
+23:55:08 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:33:20: error: invalid type argument of unary '*' (have 'int')
+   dequeue(fifo_buf,*temp);
+                    ^~~~~
+23:55:41 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:26:2: warning: 'fifo_buf' is used uninitialized in this function [-Wuninitialized]
+  FIFO_BUF_init(fifo_buf, buf,  5);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+23:57:22 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+..\fifo_buf.c: In function 'enqueue':
+..\fifo_buf.c:21:2: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  printf("enq  ");
+  ^~~~~~
+..\fifo_buf.c:21:2: warning: incompatible implicit declaration of built-in function 'printf'
+..\fifo_buf.c:21:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+..\fifo_buf.c: In function 'dequeue':
+..\fifo_buf.c:42:2: warning: incompatible implicit declaration of built-in function 'printf'
+  printf("deq\n");
+  ^~~~~~
+..\fifo_buf.c:42:2: note: include '<stdio.h>' or provide a declaration of 'printf'
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+23:57:57 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o fifo_buf.o "..\\fifo_buf.c" 
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
+23:58:38 **** Incremental Build of configuration Debug for project FIFO_BUF ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:26:2: warning: 'fifo_buf' is used uninitialized in this function [-Wuninitialized]
+  FIFO_BUF_init(fifo_buf, buf,  5);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -o FIFO_BUF.exe fifo_buf.o main.o 
+Info: Nothing to build for FIFO_BUF
