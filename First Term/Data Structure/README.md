@@ -19,5 +19,5 @@
 # [Linked_List_Student](./Linked_List_Student/main.c)
 
 
-![options](./options.jpg)
+![options](./Linked_List_Student/options.jpg)
 

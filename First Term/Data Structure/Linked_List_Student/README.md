@@ -7,5 +7,5 @@
 # Linked_List_Student
 
 
-![options](./Linked_List_Student/options.jpg)
+![options](./options.jpg)
 
