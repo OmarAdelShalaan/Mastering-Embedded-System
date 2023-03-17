@@ -14,7 +14,7 @@
 
 # [LIFO](./lifo_buf) 
 
-# [FIFO](./fifo_buf)
+# [FIFO](./FIFO_BUF/fifo_buf)
 
 # [Linked_List_Student](./Linked_List_Student/main.c)
 
