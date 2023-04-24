@@ -7,13 +7,13 @@
 # Diploma Content
 
 ## First Term 
-	- Unit 2: 
-		- C Programming
-	- Unit 3:
-		- Embedded C
-	- Unit 4: 
-		- system architect 
-		- Data Structure
+- Unit 2: 
+	- C Programming
+- Unit 3:
+	- Embedded C
+- Unit 4: 
+	- system architect 
+	- Data Structure
 
 
 ## Projects
