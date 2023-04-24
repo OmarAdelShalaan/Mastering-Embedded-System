@@ -1,8 +1,8 @@
 # Mastering-Embedded-System
-# [www.learn-in-depth.com](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com)
-# Eng: Omar Adel Shalaan
-#  Email: omaradelshalaan@gmail.com
-#  [Linkedin Profile](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/)
+
+## Eng: Omar Adel Shalaan
+
+### [Resume Repo]() [Linkedin Profile](https://www.linkedin.com/in/omar-adel-shalaan-67aaa714b/) [My Learn In Depth Profile](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com)
 
 # Diploma Content
 
@@ -11,19 +11,14 @@
 			- C Programming
 		- Unit 3:
 			- Embedded C
-		- Unit4: 
+		- Unit 4: 
 			- system architect 
 			- Data Structure
 
-[Profile: Embedded System online diploma learn-in-depth ](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com)
-
 
 ## Projects
-
+	- Pressure Controller [LINK](./Projects/Pressure_Controller)
 
 
 
 ![Learn In Depth](./Learn_In_Depth.jpg)
-
-
-![qrcode](./qrcode.jpg)

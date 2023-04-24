@@ -1,0 +1,156 @@
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00020000         xr
+sram             0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x08000000      0x248
+ *(.vectors*)
+ .vectors       0x08000000       0x1c Startup.o
+                0x08000000                vectors
+ *(.text*)
+ .text          0x0800001c       0x54 app.o
+                0x0800001c                APP_init
+                0x08000030                APP_start
+ .text          0x08000070      0x104 driver.o
+                0x08000070                Delay
+                0x08000094                getPressureVal
+                0x080000ac                Set_Alarm_actuator
+                0x080000fc                GPIO_INITIALIZATION
+ .text          0x08000174       0x10 main.o
+                0x08000174                main
+ .text          0x08000184       0xc4 Startup.o
+                0x08000184                NMI_Handler
+                0x08000184                MM_Fault_Handler
+                0x08000184                Usage_Fault_Handler
+                0x08000184                Default_Handler
+                0x08000184                H_fault_Handler
+                0x08000184                Bus_handler
+                0x08000190                Reset_handler
+                0x08000248                . = ALIGN (0x4)
+                0x08000248                _E_Text = .
+
+.glue_7         0x08000248        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x08000248        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08000248        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08000248        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08000248        0x0
+ .iplt          0x00000000        0x0 app.o
+
+.rel.dyn        0x08000248        0x0
+ .rel.iplt      0x00000000        0x0 app.o
+
+.data           0x20000000        0x0 load address 0x08000248
+                0x20000000                _S_Data = .
+ *(.data)
+ .data          0x20000000        0x0 app.o
+ .data          0x20000000        0x0 driver.o
+ .data          0x20000000        0x0 main.o
+ .data          0x20000000        0x0 Startup.o
+ *(.rodata)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _E_Data = .
+
+.igot.plt       0x20000000        0x0 load address 0x08000248
+ .igot.plt      0x00000000        0x0 app.o
+
+.bss            0x20000000     0x1004 load address 0x08000248
+                0x20000000                _S_Bss = .
+ *(.bss)
+ .bss           0x20000000        0x1 app.o
+                0x20000000                pressureVal_g
+ .bss           0x20000001        0x0 driver.o
+ .bss           0x20000001        0x0 main.o
+ .bss           0x20000001        0x0 Startup.o
+                0x20000004                . = ALIGN (0x4)
+ *fill*         0x20000001        0x3 
+                0x20000004                _E_Bss = .
+                0x20001004                . = (. + 0x1000)
+ *fill*         0x20000004     0x1000 
+                0x20001004                _stack_top = .
+LOAD app.o
+LOAD driver.o
+LOAD main.o
+LOAD Startup.o
+OUTPUT(Pressure_Controller.elf elf32-littlearm)
+
+.debug_info     0x00000000      0x3b3
+ .debug_info    0x00000000       0xb6 app.o
+ .debug_info    0x000000b6      0x103 driver.o
+ .debug_info    0x000001b9       0x93 main.o
+ .debug_info    0x0000024c      0x167 Startup.o
+
+.debug_abbrev   0x00000000      0x1f0
+ .debug_abbrev  0x00000000       0x51 app.o
+ .debug_abbrev  0x00000051       0x9d driver.o
+ .debug_abbrev  0x000000ee       0x42 main.o
+ .debug_abbrev  0x00000130       0xc0 Startup.o
+
+.debug_loc      0x00000000      0x1b0
+ .debug_loc     0x00000000       0x58 app.o
+ .debug_loc     0x00000058       0xc8 driver.o
+ .debug_loc     0x00000120       0x2c main.o
+ .debug_loc     0x0000014c       0x64 Startup.o
+
+.debug_aranges  0x00000000       0x80
+ .debug_aranges
+                0x00000000       0x20 app.o
+ .debug_aranges
+                0x00000020       0x20 driver.o
+ .debug_aranges
+                0x00000040       0x20 main.o
+ .debug_aranges
+                0x00000060       0x20 Startup.o
+
+.debug_line     0x00000000      0x1a8
+ .debug_line    0x00000000       0x3d app.o
+ .debug_line    0x0000003d       0x8f driver.o
+ .debug_line    0x000000cc       0x37 main.o
+ .debug_line    0x00000103       0xa5 Startup.o
+
+.debug_str      0x00000000      0x1a1
+ .debug_str     0x00000000       0xc0 app.o
+                                 0xf9 (size before relaxing)
+ .debug_str     0x000000c0       0x55 driver.o
+                                0x127 (size before relaxing)
+ .debug_str     0x00000115        0xc main.o
+                                 0xde (size before relaxing)
+ .debug_str     0x00000121       0x80 Startup.o
+                                0x156 (size before relaxing)
+
+.comment        0x00000000       0x11
+ .comment       0x00000000       0x11 app.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 driver.o
+ .comment       0x00000000       0x12 main.o
+ .comment       0x00000000       0x12 Startup.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 app.o
+ .ARM.attributes
+                0x00000033       0x33 driver.o
+ .ARM.attributes
+                0x00000066       0x33 main.o
+ .ARM.attributes
+                0x00000099       0x33 Startup.o
+
+.debug_frame    0x00000000      0x138
+ .debug_frame   0x00000000       0x48 app.o
+ .debug_frame   0x00000048       0x78 driver.o
+ .debug_frame   0x000000c0       0x2c main.o
+ .debug_frame   0x000000ec       0x4c Startup.o
