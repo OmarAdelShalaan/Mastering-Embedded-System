@@ -55,9 +55,6 @@ Sections: $(Project_Name).elf
 	$(CC)objdump  -h $<
 	@echo "(============================)"
 	
-simulation:
-	@echo "(===========Simulation===========)"
-	qemu-system-arm -M versatilepb -m 128M -nographic -kernel $(Project_Name).bin
 
 clean_all:
 	@echo "(===========Clean .o && .elf && .hex file && .map===========)"
