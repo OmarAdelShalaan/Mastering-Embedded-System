@@ -18,7 +18,7 @@
 
 ## Projects
 - Pressure Controller [LINK](./Projects/Pressure_Controller)
-
+- Student Information Management [LINK](./Projects/Student_Information_Management)
 
 
 ![Learn In Depth](./Learn_In_Depth.jpg)
