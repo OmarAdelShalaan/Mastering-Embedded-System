@@ -7,8 +7,7 @@
 	- Unit 7:
 		- MCU Essential Peripherals
 	- Unit 8: 
-		-  
-		- 
+		-  MCU Interfacing
     - 
    
 ## Unit 6 MCU_Fundamentals
