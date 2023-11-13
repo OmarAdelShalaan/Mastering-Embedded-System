@@ -18,10 +18,18 @@
 # Second Term 
 - ## Unit 6: 
 	- ### Micro-controller Arch
+		- #### MCU Fundamentals
+			- Clocks
+			- Interrupts
+			- Bus Interfaces
 - ## Unit 7:
 	- ### MCU Essential Peripherals
+		- GPIO
+		- EXTI
 - ## Unit 8: 
-	- ### MCU Interfacing 
+	- ### MCU Interfacing
+		-  ### Communication Protocols
+			- UART [Link](./Second Term/Unit8_Communication_Protocols/Atmega_USART_Driver)
 	
 
 # Projects
