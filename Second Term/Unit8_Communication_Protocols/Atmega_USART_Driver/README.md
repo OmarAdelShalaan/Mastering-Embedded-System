@@ -1,6 +1,6 @@
 # Serial Communication Protocols
 
-# UART (Universal Asynchronous Receiver/Transmitter)
+# USART (Universal Synchronous/Asynchronous Receiver/Transmitter)
 
 # USART Atmega32 Driver
 
