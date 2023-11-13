@@ -1,24 +1,24 @@
 # Mastering-Embedded-System
-# [www.learn-in-depth.com](https://www.learn-in-depth.com/online-diploma/omaradelshalaan%40gmail.com)
+# [www.learn-in-depth.com](https://www.learn-in-depth-store.com/certificate/omaradelshalaan%40gmail.com)
 
 # Second Term 
-	- Unit 6: 
-		- MCU Fundamentals
-	- Unit 7:
-		- MCU Essential Peripherals
-	- Unit 8: 
-		-  MCU Interfacing
-    - 
+- ## Unit 6: 
+	- ### MCU Fundamentals
+- ## Unit 7:
+	- ### MCU Essential Peripherals
+- ## Unit 8: 
+	-  ### MCU Interfacing
+
    
 ## Unit 6 MCU_Fundamentals
-    -  Lesson 1 : 2 MCU Fundamentals
-    -  Lesson 3 MCU Clocks
-    -  Lesson 4 MCU Interrupts
+-  ### Lesson 1 : 2 MCU Fundamentals
+-  ### Lesson 3 MCU Clocks
+-  ### Lesson 4 MCU Interrupts
 	
 
 ## Unit 7 MCU Essential Peripherals 
-    -  Lesson 1 : 3 GPIO 
-    -  Lesson 4 EXTI
+-  ### Lesson 1 : 3 GPIO 
+-  ### Lesson 4 EXTI
 
 
 	
