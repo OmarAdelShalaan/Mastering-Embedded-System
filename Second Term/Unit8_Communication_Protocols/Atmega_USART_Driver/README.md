@@ -18,5 +18,7 @@
 ![](./pic/Functions.jpg)
 
 # Proteus
-
 ![proteus](./pic/proteus.jpg)
+
+# USART From Atmega32 Datasheet
+[![](./pic/USART_Datasheet.jpg)](./USART.pdf)
