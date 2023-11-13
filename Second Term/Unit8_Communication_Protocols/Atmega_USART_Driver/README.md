@@ -11,12 +11,12 @@
 - [USART_REG.h](./REG_Macros.h)
 
 # main Function
-![](./main.jpg)
+![](./pic/main.jpg)
 # USART Configuration
-![](./USART_Config.jpg)
+![](./pic/USART_Config.jpg)
 # USART Functions
-![](./Functions.jpg)
+![](./pic/Functions.jpg)
 
 ## Proteus
 
-![proteus](./proteus.jpg)
+![proteus](./pic/proteus.jpg)
