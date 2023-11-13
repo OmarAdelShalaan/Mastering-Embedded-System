@@ -20,7 +20,7 @@
 
 
 ## Embedded C
-- Lesson 1 
+• Lesson 1 
 	• TYPEDEF COMMAND
 	• HEADER PROTECTION
 	• OPTIMIZATION
