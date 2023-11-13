@@ -10,12 +10,12 @@
 	- ### MCU Interfacing
 		- #### Communication Protocols
 
-   
+
+
 ## Unit 6 MCU_Fundamentals
 -  ### Lesson 1 : 2 MCU Fundamentals
 -  ### Lesson 3 MCU Clocks
 -  ### Lesson 4 MCU Interrupts
-	
 
 ## Unit 7 MCU Essential Peripherals 
 -  ### Lesson 1 : 3 GPIO 
@@ -24,8 +24,9 @@
 ## Unit 7 MCU Interfacing
 -  ## Communication Protocols
 	- ### UART [Link](./Unit8_Communication_Protocols/Atmega_USART_Driver)
-	
-	
+
+
+
 ## Unit 6 MCU_Fundamentals
 -  Lesson 1 
 	- Embedded System Defination
