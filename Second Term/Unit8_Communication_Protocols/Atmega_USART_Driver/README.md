@@ -17,6 +17,6 @@
 # USART Functions
 ![](./pic/Functions.jpg)
 
-## Proteus
+# Proteus
 
 ![proteus](./pic/proteus.jpg)
