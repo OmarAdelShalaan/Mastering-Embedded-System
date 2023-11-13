@@ -22,7 +22,9 @@
 -  ### Lesson 4 EXTI
 
 ## Unit 7 MCU Interfacing
--  ### UART [Link](./Unit8_Communication_Protocols/Atmega_USART_Driver)
+-  ### Communication Protocols
+	- ### UART [Link](./Unit8_Communication_Protocols/Atmega_USART_Driver)
+	
 	
 ## Unit 6 MCU_Fundamentals
 	-  Lesson 1 
