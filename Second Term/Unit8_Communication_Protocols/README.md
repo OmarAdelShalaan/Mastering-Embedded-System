@@ -1,6 +1,9 @@
 # Communication Protocols
 
-## Serial Communication Protocols
+# Serial Communication Protocols
 -  # UART (Universal Asynchronous Receiver/Transmitter)
-   - USART Driver to Atmega32
+   - # USART Atmega32 Driver [Link](./Atmega_USART_Driver) 
 -  # SPI
+
+
+![](./CommunicationProtocols.jpg)
