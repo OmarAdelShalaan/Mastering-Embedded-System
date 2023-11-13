@@ -10,8 +10,11 @@
 - [USART.c](./ATmega_USART_Driver.c)
 - [USART_REG.h](./REG_Macros.h)
 
+# main Function
 ![](./main.jpg)
+# USART Configuration
 ![](./USART_Config.jpg)
+# USART Functions
 ![](./Functions.jpg)
 
 ## Proteus
